@@ -12,6 +12,8 @@ The Changes from the original app are as follows :
 4) Progress Bar implementation
 5) Follows Google Material Design Guidelines
 
+Its still a work in PROGRESS
+
 ![Screenshot](Screenshot_20181124-211837[1].png)
 ![Screenshot](Screenshot_20181124-211844[1].png)
 ![Screenshot](Screenshot_20181124-211847[1].png)
