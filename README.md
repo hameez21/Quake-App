@@ -12,6 +12,7 @@ The Changes from the original app are as follows :
 4) Progress Bar implementation
 5) Follows Google Material Design Guidelines
 
+![Screenshot](Screenshot_20181124-211847[1].png)
 
 Pre-requisites
 --------------
